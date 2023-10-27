@@ -1,0 +1,6 @@
+App de nodeJS|true
+App ExpressJS|true
+App NextJS|true
+App de NestJS|false
+App con Qwik|true
+Crear app de GraphQL|false
